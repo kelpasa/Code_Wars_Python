@@ -9,4 +9,4 @@
 [Мой текущий ранг](https://www.codewars.com/users/kelpasa):
 
 
-<img src=https://www.codewars.com/users/kelpasa/badges/large>
+<img src=https://www.codewars.com/users/kelpasa/badges/large>(https://www.codewars.com/users/kelpasa):
