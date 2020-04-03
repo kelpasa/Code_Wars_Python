@@ -14,3 +14,6 @@ def proofread(string):
     for i in s:
         lst.append(i.capitalize())
     return '. '.join(lst)
+
+def proofread(string):
+    return '. '.join([i.capitalize() for i in string.lower().replace('ie','ei').split('. ')])
